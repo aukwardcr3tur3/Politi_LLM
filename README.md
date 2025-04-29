@@ -1,5 +1,6 @@
 Introduction
-"politi LLM" is a fine-tuned large language model (LLM) based on distilbert-base-uncased, designed to classify political statements for truthfulness and summarize historical texts, with enhancements like text-to-speech (TTS), voice-to-text (VTT), and visualization options. This report provides the full code, installation instructions for Fedora, Arch Linux, and Gentoo, and comprehensive documentation, ensuring accessibility for non-technical users as of 09:43 PM EAT on Tuesday, April 29, 2025.
+"politi LLM" is a fine-tuned large language model (LLM) based on distilbert-base-uncased, designed to classify political statements for truthfulness and summarize historical texts, with enhancements like text-to-speech (TTS), voice-to-text (VTT), and visualization options. This report provides the full code, installation instructions for Wondows 10, Fedora, Arch Linux, and Gentoo, and comprehensive documentation, ensuring accessibility for non-technical users.
+
 Conceptual Framework
 "politi LLM" uses the LIAR dataset for classification (6 labels: "pants-fire" to "true") and t5-small for summarization. Key features include:  
 Classification: Analyzes political statements for truthfulness, with text or voice input.  
