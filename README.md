@@ -228,7 +228,7 @@ Docker Issues: Verify Docker is running (sudo systemctl status docker); check po
 
 Browser Not Opening: Manually visit http://localhost:7860.
 
-Contact: Email support@example.com (mailto:support@example.com) for help.
+Contact: Email yasminembura@gmail.com for help.
 Supporting Evidence
 Research from Frontiers in Political Science highlights LLMs’ potential in political analysis, emphasizing unbiased datasets like LIAR (Hugging Face LIAR). Tools like Gradio (Gradio Docs) and PyInstaller (PyInstaller Docs) simplify deployment, as noted in DataCamp. Docker’s cross-distribution compatibility is supported by Docker Docs. Challenges like internet dependency for TTS/VTT are discussed in MIT Technology Review.
 Tables
@@ -286,7 +286,8 @@ Ensures same environment across Fedora, Arch, Gentoo
 Docker Docs
 
 Conclusion
-"politi LLM" can be effectively run on Fedora, Arch Linux, and Gentoo using a standalone executable or Docker container, making it accessible to non-technical users. The provided code, installation instructions, and documentation ensure ease of use, supporting political analysis with classification, summarization, and speech features, as requested on April 29, 2025.
+"politi LLM" can be effectively run on Fedora, Arch Linux, and Gentoo using a standalone executable or Docker container, making it accessible to non-technical users. The provided code, installation instructions, and documentation ensure ease of use, supporting political analysis with classification, summarization, and speech features.
+
 Key Citations
 Frontiers in Political Science  
 
